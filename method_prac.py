@@ -174,7 +174,7 @@ class prac:
         print('sample_str' in self.sample_init_dict )           # k가 있으면 true 없으면 false
         print('my' in self.sample_init_dict )          
         
-        
+#################################### 끗!
     
     
 if __name__ == '__main__':
