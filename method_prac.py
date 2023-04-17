@@ -181,6 +181,7 @@ if __name__ == '__main__':
     try:
         
         my_prac = prac()
+        
         # my_prac.count_prac()
         # my_prac.find_prac()
         # my_prac.join_prac()
@@ -205,7 +206,9 @@ if __name__ == '__main__':
         # my_prac.dict_to_tuple_list_prac()
         # my_prac.clear_dict()
         # my_prac.get_dict()
-        my_prac.in_dict()
+        # my_prac.in_dict()
+        
+
         
         
         
